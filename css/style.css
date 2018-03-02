@@ -7,7 +7,9 @@ body, html {
 
 .commenTxt {
 	font-family: 'Raleway', sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
 }
 
 .frontTitle {
@@ -23,13 +25,18 @@ body, html {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.8em;
 	font-weight: 300;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
 }
 
 .container-lg {
-	max-width: 1040px;
+	max-width: 1400px;
 	text-align: center;
+	margin: auto;
 }
 
+
+/* Gradient background in the top */
 .stripes {
   display: grid;
   grid: repeat(5, 190px) / repeat(10, 1fr);
@@ -70,13 +77,169 @@ body, html {
 	z-index: 1;
 	position: absolute;
 	left: 10%;
-	top: 15%;
+	top: 20%;
 	text-align: left;
 }
 
+#aboutMe .container-lg {
+	margin: auto;
+}
+
+.aboutTitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 3.5em;
+	font-weight: 800;
+	letter-spacing: 2px;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+}
+
+.aboutTxt {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+}
+
+#aboutMe .commenTxt, .aboutTxt, .aboutTitle {
+	margin: auto;
+	text-align: left;
+	margin-top: 5%;
+}
+
+#aboutMePhoto {
+}
+
+#myPhoto {
+	width: 100%;
+	margin-top: -10%;
+}
+
+
 #footerSoMe .footerTxt {
-	position: fixed;
-	bottom: 0;
 	width: 100%;
 	text-align: center;
+}
+
+#portfolioMe {
+	margin-top: 10%;
+	float: right;
+}
+
+.portfolioTitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 3.5em;
+	font-weight: 800;
+	letter-spacing: 2px;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+	text-align: right;
+}
+
+.portfolioTxt {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+}
+
+.portfolioPhoto {
+	width: 675px;
+}
+
+#hautefriture, #hautefritureTxt {
+	margin-top: 25%;
+}
+
+.portleftTitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 3.5em;
+	font-weight: 800;
+	letter-spacing: 2px;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+	text-align: left;
+}
+
+.portleftTxt {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+	text-align: left;
+}
+
+#hautefritureTxt .commenTxt {
+	text-align: left;
+}
+
+#njordex, #njordexTxt {
+	margin-top: 25%;
+}
+
+.portrightTitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 3.5em;
+	font-weight: 800;
+	letter-spacing: 2px;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+	text-align: right;
+}
+
+.portrightTxt {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+	text-align: right;
+}
+
+#njordexTxt .commenTxt {
+	text-align: right;
+}
+
+#nordnordnordTxt .commenTxt {
+	text-align: left;
+}
+
+#nordnordnord, #nordnordnordTxt {
+	margin-top: 25%;
+}
+
+/* CSS Grid S */
+
+.item1 { grid-area: text; }
+.item2 { grid-area: image; }
+.item3 { grid-area: portfolio }
+.item4 { grid-area: port1text }
+.item5 { grid-area: port1image }
+.item6 { grid-area: port2text }
+.item7 { grid-area: port2image }
+.item8 { grid-area: port3image }
+.item9 { grid-area: port3text }
+
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+  'text image'
+  'portfolio portfolio'
+  'port1image port1text'
+  'port2text port2image'
+  'port3image port3text';
+  /*
+    grid-gap: 10px;
+  background-color: #2196F3;
+  padding: 10px; */
+}
+
+.grid-container > div {
+   /* background-color: rgba(255, 255, 255, 0.8); */
+  text-align: center;
+  /* padding: 10px; */
 }
