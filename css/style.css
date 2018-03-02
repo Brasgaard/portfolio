@@ -1,0 +1,82 @@
+/* ONLY CSS */
+body, html {
+	margin: 0 auto;
+	width: 100%;
+	font-family: 'Raleway', sans-serif;
+}
+
+.commenTxt {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+}
+
+.frontTitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 3.5em;
+	font-weight: 800;
+	letter-spacing: 2px;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+}
+
+.frontTxt {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.8em;
+	font-weight: 300;
+}
+
+.container-lg {
+	max-width: 1040px;
+	text-align: center;
+}
+
+.stripes {
+  display: grid;
+  grid: repeat(5, 190px) / repeat(10, 1fr);
+  background: linear-gradient(to top, #a6ffcb, #12d8fa, #1fa2ff);
+}
+
+.stripes :nth-child(1) {
+  grid-column: span 2;
+}
+
+.stripes :nth-child(2) {
+  grid-area: 3 / span 2 / auto / -1;
+}
+
+.stripes :nth-child(3) {
+  grid-row: 4;
+  grid-column: span 3;
+}
+
+.stripes {
+  transform: skewY(-11deg);
+  transform-origin: 0;
+  z-index: -1;
+  position: relative;
+}
+
+.globalNav {
+	position: absolute;
+	z-index: 1;
+}
+
+.globalNav li {
+	display: inline;
+	cursor: pointer;
+}
+
+#intro .container-lg {
+	z-index: 1;
+	position: absolute;
+	left: 10%;
+	top: 15%;
+	text-align: left;
+}
+
+#footerSoMe .footerTxt {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
