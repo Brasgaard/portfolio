@@ -5,6 +5,7 @@ body, html {
 	font-family: 'Raleway', sans-serif;
 }
 
+
 .commenTxt {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.2em;
@@ -147,6 +148,7 @@ body, html {
 
 .portfolioPhoto {
 	width: 675px;
+	box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.5);
 }
 
 #hautefriture, #hautefritureTxt {
@@ -211,6 +213,33 @@ body, html {
 	margin-top: 25%;
 }
 
+.contactTitle {
+	font-family: 'Raleway', sans-serif;
+	font-size: 3.5em;
+	font-weight: 800;
+	letter-spacing: 2px;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+	text-align: center;
+}
+
+.contactTxt {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.8em;
+	font-weight: 300;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+	text-align: center;
+}
+
+#contactMe {
+	margin-top: 7%;
+}
+
+#contactMe, .commenTxt {
+	text-align: center;
+}
+
 /* CSS Grid S */
 
 .item1 { grid-area: text; }
@@ -222,6 +251,7 @@ body, html {
 .item7 { grid-area: port2image }
 .item8 { grid-area: port3image }
 .item9 { grid-area: port3text }
+.item10 { grid-area: contact; }
 
 
 .grid-container {
@@ -231,9 +261,9 @@ body, html {
   'portfolio portfolio'
   'port1image port1text'
   'port2text port2image'
-  'port3image port3text';
-  /*
-    grid-gap: 10px;
+  'port3image port3text'
+  'contact contact';
+  /*grid-gap: 10px;
   background-color: #2196F3;
   padding: 10px; */
 }

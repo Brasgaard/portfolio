@@ -57,32 +57,7 @@
 				</p>
 			</div>
 		</section>
-		
 
-<!-- About me start
-		<div class="container-lg">
-			<section id="aboutMe">
-				<h1 class="aboutTitle">about me</h1>
-				<p class="aboutTxt">I'm a front-end developer student <br> based in Aarhus, Denmark.</p>
-				<p class="commenTxt">I'm interested in all kinds of visual communication<br> but my major focus is on web development. I love creating stunning<br> functional and unique websites. Which brings great value<br> and a huge smile on the customers lips.</p>
-				<p class="commenTxt">In my spare time I really enjoy hanging out with friends<br> and do something fun or exciting. And obviously sitting<br> in front of my computer with music in my ears.</p>
-				<p class="commenTxt">I have always loved to explore and try out new things.<br>Being spontaneous is a big part of me. If i see a great opportunity<br> to try something out, count me in! It's important to me to keep<br> growing on a personal level together with my professional career.</p>
-			</section>
-
-			<section id="aboutMePhoto">
-				<img id="myPhoto" src="images/alex.png" alt="Alexander Brasgaard" title="Alexander Brasgaard">
-			</section>
-		</div>
-
-Portfolio start
-		<section id="portfolioMe">
-			<div class="container-lg">
-				<h1 class="frontTitle">portfolioMe</h1>
-			</div>
-		</section>
-	</main>
-</div>
--->
 <div class="container-lg">
 	<div class="grid-container">
 	  <div class="item1">
@@ -151,14 +126,21 @@ Portfolio start
 	  </div>
 	</div>
 </div>
+
+<div class="item10">
+	<section id="contactMe">
+		<h1 class="contactTitle">contact</h1>
+		<p class="contactTxt">Here is the different places you can contact me</p>
+		<p class="contactTxt">Alexaderbrasgaard@hotmail.com <br>+45 25 70 24 76</p>
+	</section>
+</div>
+
 <!-- Footer start -->
 <footer class="globalFooter">
 	<section id="footerSoMe">
-		<p class="footerTxt"> This is my Facebook(icon). This is my Instagram(icon). This is my Behance(icon). This is my Dribbble(icon).</p>
+		<p class="footerTxt"> This is my footer. This is my footer. This is my footer. This is my footer.</p>
 	</section>
 </footer>
-
-
 
 <!-- Scripts -->
 <script src="js/scripts.js"></script>
