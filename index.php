@@ -2,7 +2,7 @@
 <html>
 <head>
 	<!-- Title -->
-	<title>Alexander Brasgaard - Front-end developer</title>
+	<title>Alexander Brasgaard - Front-end Developer And Web Designer</title>
 	
 	<!-- Description -->
 	<meta charset="UTF-8">
@@ -17,6 +17,7 @@
 	<!-- Css, Sass and fonts-->
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/fontawesome-all.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
   	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -28,6 +29,8 @@
 </head>
 <body>
 
+
+
 <div class="container-fluid-1">
 	<div class="container">
 		<div class="row">
@@ -38,6 +41,7 @@
 		</div>
 	</div>
 </div>
+<img class="curve" src="images/test2.png">
 
 <div class="container-fluid-2">
 	<div class="container">
@@ -51,7 +55,7 @@
 			</div>
 
 			<div class="col-md-6 col-xs-12">
-				<img id="myPhoto" class="animated fadeInRight" src="images/alex.png" alt="Alexander Brasgaard" title="Alexander Brasgaard">
+				<img id="myPhoto" src="images/alex123.png" alt="Alexander Brasgaard" title="Alexander Brasgaard">
 			</div>
 		</div>
 	</div>
@@ -78,7 +82,7 @@
 			</div>
 
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhoto" src="images/hautefriture.png" alt="Haute Friture Gourment Grill" title="Haute Friture Gourment Grill">
+				<img class="portfolioPhoto" src="images/hautefriture1.jpg" alt="Haute Friture Gourment Grill" title="Haute Friture Gourment Grill">
 			</div>
 		</div>
 	</div>
@@ -88,7 +92,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhoto" src="images/njordex.jpg" alt="Njordex" title="Njordex">
+				<img class="portfolioPhoto" src="images/njordex1.jpg" alt="Njordex" title="Njordex">
 			</div>
 
 			<div class="col-md-6 col-xs-12">
@@ -110,20 +114,23 @@
 			</div>
 
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhoto" src="images/nordnordnord.png" alt="nordnordnord" title="nordnordnord">
+				<img class="portfolioPhoto" src="images/nordnordnord1.jpg" alt="nordnordnord" title="nordnordnord">
 			</div>
 		</div>
 	</div>
 </div>
 
-
 <div class="container-fluid-7">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12 col-xs-12">
-				<h3 class="titleTxt">contact</h3>
-			  	<p class="underTitleTxt">Here is the different places you can contact me</p>
-			  	<p class="underTitleTxt">+45 25 70 24 76 <br>Alexaderbrasgaard@hotmail.com</p>
+			<div class="col-md-6 col-xs-12">
+				<img class="portfolioPhoto" src="images/grundfos1.jpg" alt="Grundfos" title="Grundfos">
+			</div>
+
+			<div class="col-md-6 col-xs-12">
+				<h3 class="titleTxtRight">grundfos</h3>
+			  	<p class="underTitleTxtRight">The world's leading pump manufacturer.</p>
+			  	<p class="commenTxtRight">In this project my assignment was to create the visual identity for Njordex.<br>This included a landing page and a full website design with 10+ sites.<br>The goal was to create an easy overview which instantly builded trust.<br>One of the biggest focuses was to keep the site user friendly everywhere.</p>
 			</div>
 		</div>
 	</div>
@@ -133,11 +140,32 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-xs-12">
+				<h3 class="titleTxt">contact</h3>
+				<p class="underTitleTxtIntern"><strong>I'm looking for an internship!</strong></p>
+			  	<p class="underTitleTxt">Right now I am on the search for an interesting internship.<br>
+			  		As mentioned earlier I currently live in Denmark, but that<br> 
+			  		doesn't hold me back from taking an international offer. <br>
+			  		To be honest? That would actually be really cool to try!<br>
+			  		If you think that I could fit in with your company<br> please feel free to contact me!<br><br>
+			  		Here are the different places you can contact me:</p>
+			  	<p class="underTitleTxt"><strong>Phone:</strong> +45 25 70 24 76 <br><strong>E-mail: </strong><a href="mailto:alexanderbrasgaard@hotmail.com" target="_top">alexanderbrasgaard@hotmail.com</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<img class="curve" src="images/test3.png">
+<div class="container-fluid-9">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 col-xs-12">
 				<p class="commenTxt"> Copyright © Alexander Brasgaard 2018</p>
 			</div>
 		</div>
 	</div>
 </div>
+
+<button onclick="topFunction()" id="backToTop" title="Go to top"><i class="fas fa-arrow-up"></i></button>
 
 <!-- Scripts -->
 <script src="js/scripts.js"></script>
