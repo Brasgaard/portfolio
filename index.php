@@ -36,6 +36,8 @@
 		<div class="row">
 			<div class="col-md-12 col-xs-12">
 				<p id="nameFont" class="animated fadeInUp"><span style="font-weight: 700;" >ALEXANDER</span>BRASGAARD</p>
+				<p class="nameFontMobile" class="animated fadeInUp"><span style="font-weight: 700;" >ALEXANDER</span></p>
+				<p class="nameFontMobile1" class="animated fadeInUp">BRASGAARD</p>
   				<p id="imFont" class="animated fadeInUp">I'm a <span class="txt-rotate" data-period="5000" data-rotate='[ "< Front-end Developer >" ]'></span> and Web Designer</p>
 			</div>
 		</div>
@@ -48,10 +50,10 @@
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
 				<h3 class="titleTxtLeft ">about me</h3>
-			  	<p class="underTitleTxtLeft">I'm a front-end developer student<br>based in Aarhus, Denmark.</p>
-			  	<p class="commenTxtLeft">Hi! My name is Alexander Brasgaard.<br>I'm interested in all kinds of visual communication<br>but my major focus is on web development. I love creating stunning<br> functional and unique websites. Which brings great value<br>and a huge smile on the customers lips.</p>
-			  	<p class="commenTxtLeft">In my spare time I really enjoy hanging out with friends<br>and do something fun or exciting. And obviously sitting<br>in front of my computer with music in my ears.</p>
-			  	<p class="commenTxtLeft">I have always loved to explore and try out new things.<br>Being spontaneous is a big part of me. If i see a great opportunity<br> to try something out, count me in! It's important to me to keep<br>growing on a personal level together with my professional career.</p>
+			  	<p class="underTitleTxtLeft">I'm a front-end developer student <br>based in Aarhus, Denmark.</p>
+			  	<p class="commenTxtLeft">Hi! My name is Alexander Brasgaard.<br>I'm interested in all kinds of visual communication <br>but my major focus is on web development. I love creating stunning<br> functional and unique websites. Which brings great value<br>and a huge smile on the customers lips.</p>
+			  	<p class="commenTxtLeft">In my spare time I really enjoy hanging out with friends <br>and do something fun or exciting. And obviously sitting <br>in front of my computer with music in my ears.</p>
+			  	<p class="commenTxtLeft">I have always loved to explore and try out new things.<br> Being spontaneous is a big part of me. If i see a great opportunity<br> to try something out, count me in! It's important to me to keep<br> growing on a personal level together with my professional career.</p>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
@@ -78,7 +80,7 @@
 			<div class="col-md-6 col-xs-12">
 				<h3 class="titleTxtLeft">haute friture</h3>
 			  	<p class="underTitleTxtLeft">Where grill meets gourment.</p>
-			  	<p class="commenTxtLeft">In this project I worked together with my study group to create<br>a new website for Haute Friture. They didn't have a website and<br> wanted to be able to show their current and new customers what<br>their gourment grill looked like. The requirement was to have focus on<br>their unique food through visuelle element and provide a menu.</p>
+			  	<p class="commenTxtLeft">In this project I worked together with my study group to create<br> a new website for Haute Friture. They didn't have a website and<br> wanted to be able to show their current and new customers what <br>their gourment grill looked like. The requirement was to have focus on<br>their unique food through visuelle element and provide a menu.</p>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
@@ -135,7 +137,7 @@
 			<div class="col-md-6 col-xs-12">
 				<h3 class="titleTxtRight">grundfos</h3>
 			  	<p class="underTitleTxtRight">The world's leading pump manufacturer.</p>
-			  	<p class="commenTxtRight">This task was to create a new concept within Grundfos Ecademy.<br>They had 3 main problems which they would like to have solved: Onboarding, engagement and conversion.<br>Our concept main focus was to create better onboarding and a new way to managed users with new easy to use features. Therefore we designed and created an administration page for the companies that is on the Ecadamy.</p>
+			  	<p class="commenTxtRight">This task was to create a new concept within Grundfos Ecademy.<br>They had 3 main problems which they would like to have solved: Onboarding, engagement and conversion.<br> Our concept main focus was to create better onboarding and a new way to managed users with new easy to use features. Therefore we designed and created an administration page for the companies that is on the Ecadamy.</p>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
@@ -157,7 +159,8 @@
 			  		To be honest? That would actually be really cool to try!<br>
 			  		If you think that I could fit in with your company<br> please feel free to contact me!<br><br>
 			  		Here are the different places you can contact me:</p>
-			  	<p class="underTitleTxt"><strong>Phone:</strong> +45 25 70 24 76 <br><strong>E-mail: </strong><a href="mailto:alexanderbrasgaard@hotmail.com" target="_top">alexanderbrasgaard@hotmail.com</a></p>
+			  	<p class="underTitleTxt"><strong>Phone:</strong> +45 25 70 24 76</p>
+			  	<p class="underTitleTxt"><strong>E-mail: </strong><a href="mailto:alexanderbrasgaard@hotmail.com" target="_top">alexanderbrasgaard@hotmail.com</a></p>
 			</div>
 		</div>
 	</div>
