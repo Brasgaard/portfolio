@@ -11,10 +11,22 @@ body, html {
 
 }
 
-.portfolioPhoto {
+.portfolioPhotoGone {
 	width: 100%;
 	height: 100%;
 	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+}
+
+.portfolioPhoto {
+  width: 100%;
+  height: 100%;
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
+}
+
+.portfolioPhoto1 {
+  width: 100%;
+  height: 100%;
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
 }
 
 /*Compile to SASS later*/
@@ -153,7 +165,7 @@ body, html {
 	color: white;
 }
 
-#backToTop {
+.backToTop {
     position: fixed; 
     bottom: 20px; 
     right: 30px; 
@@ -168,7 +180,7 @@ body, html {
     font-size: 18px; 
 }
 
-#backToTop:hover {
+.backToTop:hover {
     background-color: red;
 }
 
@@ -179,4 +191,48 @@ body, html {
 
 .socialmedia:hover {
   color: white;
+}
+
+/* MEDIA QUERY MOBILE */ 
+
+@media only screen and (max-width: 1199px) {
+
+  .curve {
+    display: none;
+  }
+  
+  .backToTop {
+    display: none;
+  }
+
+  #nameFont {
+    font-size: 2em;
+  }
+
+  #imFont {
+    font-size: 1em;
+  }
+
+  .portfolioPhotoGone {
+    display: none;
+  }
+
+  .underTitleTxt {
+    font-size: 1.2em;
+  }
+
+  .underTitleTxtIntern {
+    font-size: 2.5em;
+  }
+
+}
+
+/* MEDIA QUERY DESKTOP */
+
+@media only screen and (min-width: 991px) {
+
+  .portfolioPhoto1 {
+    display: none;
+  }
+
 }

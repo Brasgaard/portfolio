@@ -78,7 +78,7 @@
 			<div class="col-md-6 col-xs-12">
 				<h3 class="titleTxtLeft">haute friture</h3>
 			  	<p class="underTitleTxtLeft">Where grill meets gourment.</p>
-			  	<p class="commenTxtLeft">In this project I worked together with my study group to create<br>a new website for Haute Friture. They didn't have a website and<br> wanted to be able to show their current and new customers what<br>their gourment grill looked like. The requirement was to have focus on<br>their unique food through visuelle element and a menu card.</p>
+			  	<p class="commenTxtLeft">In this project I worked together with my study group to create<br>a new website for Haute Friture. They didn't have a website and<br> wanted to be able to show their current and new customers what<br>their gourment grill looked like. The requirement was to have focus on<br>their unique food through visuelle element and provide a menu.</p>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
@@ -92,14 +92,19 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhoto" src="images/njordex1.jpg" alt="Njordex" title="Njordex">
+				<img class="portfolioPhotoGone" src="images/njordex1.jpg" alt="Njordex" title="Njordex">
 			</div>
 
 			<div class="col-md-6 col-xs-12">
 				<h3 class="titleTxtRight">njordex</h3>
 			  	<p class="underTitleTxtRight">Denmarks first cryptocurrency exchange.</p>
-			  	<p class="commenTxtRight">In this project my assignment was to create the visual identity for Njordex.<br>This included a landing page and a full website design with 10+ sites.<br>The goal was to create an easy overview which instantly builded trust.<br>One of the biggest focuses was to keep the site user friendly everywhere.</p>
+			  	<p class="commenTxtRight">My responsibility in this project was to create the visual identity for Njordex.<br>This included a brand new landing page and a full website design with 15+ sites. The goal was to create a website with great overview, which instantly builded trust. Some of the biggest focuses was to keep the site user friendly for all ages, easy to navigation through and ensure onboarding.</p>
 			</div>
+
+			<div class="col-md-6 col-xs-12">
+				<img class="portfolioPhoto1" src="images/njordex1.jpg" alt="Njordex" title="Njordex">
+			</div>
+
 		</div>
 	</div>
 </div>
@@ -124,13 +129,17 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhoto" src="images/grundfos1.jpg" alt="Grundfos" title="Grundfos">
+				<img class="portfolioPhotoGone" src="images/grundfos1.jpg" alt="Grundfos" title="Grundfos">
 			</div>
 
 			<div class="col-md-6 col-xs-12">
 				<h3 class="titleTxtRight">grundfos</h3>
 			  	<p class="underTitleTxtRight">The world's leading pump manufacturer.</p>
-			  	<p class="commenTxtRight">In this project my assignment was to create the visual identity for Njordex.<br>This included a landing page and a full website design with 10+ sites.<br>The goal was to create an easy overview which instantly builded trust.<br>One of the biggest focuses was to keep the site user friendly everywhere.</p>
+			  	<p class="commenTxtRight">This task was to create a new concept within Grundfos Ecademy.<br>They had 3 main problems which they would like to have solved: Onboarding, engagement and conversion.<br>Our concept main focus was to create better onboarding and a new way to managed users with new easy to use features. Therefore we designed and created an administration page for the companies that is on the Ecadamy.</p>
+			</div>
+
+			<div class="col-md-6 col-xs-12">
+				<img class="portfolioPhoto1" src="images/grundfos1.jpg" alt="Grundfos" title="Grundfos">
 			</div>
 		</div>
 	</div>
@@ -169,7 +178,7 @@
 	</div>
 </div>
 
-<button onclick="topFunction()" id="backToTop" title="Go to top"><i class="fas fa-arrow-up"></i></button>
+<button onclick="topFunction()" class="backToTop" title="Go to top"><i class="fas fa-arrow-up"></i></button>
 
 <!-- Scripts -->
 <script src="js/scripts.js"></script>
