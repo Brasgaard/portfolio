@@ -159,6 +159,10 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-xs-12">
+				<a class="socialmedia" href="https://www.facebook.com/alexander.brasgaard" target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a>
+				<a class="socialmedia" href="https://www.linkedin.com/in/alexander-brasgaard-van-straaten-31666314a/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+				<a class="socialmedia" href="https://github.com/Brasgaard" target="_blank"><i class="fab fa-github-square fa-2x"></i></a>
+				<a class="socialmedia" href="https://www.instagram.com/alexanderbrasgaard/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
 				<p class="commenTxt"> Copyright © Alexander Brasgaard 2018</p>
 			</div>
 		</div>

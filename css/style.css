@@ -171,3 +171,12 @@ body, html {
 #backToTop:hover {
     background-color: red;
 }
+
+.socialmedia {
+  color: white;
+  margin: 1px;
+}
+
+.socialmedia:hover {
+  color: white;
+}
