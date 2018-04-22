@@ -213,7 +213,10 @@ body, html {
 
 .socialmedia:hover {
   color: white;
+  font-size: 1.3em;
+  transition: 0.4s;
 }
+
 
 /* MEDIA QUERY MOBILE */ 
 
