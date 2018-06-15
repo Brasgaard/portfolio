@@ -14,6 +14,7 @@ body, html {
 .portfolioPhotoGone {
 	width: 100%;
 	height: 100%;
+  max-height: 320px;
 	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
   transition: all 0.3s;
 }
@@ -25,6 +26,7 @@ body, html {
 .portfolioPhoto {
   width: 100%;
   height: 100%;
+  max-height: 320px;
   box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
   transition: all 0.3s;
 }
@@ -36,6 +38,7 @@ body, html {
 .portfolioPhoto1 {
   width: 100%;
   height: 100%;
+  max-height: 320px;
   box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.25);
 }
 
@@ -178,12 +181,13 @@ body, html {
 }
 
 .container-fluid-7 {
-	background: linear-gradient(#F2F2F2, #FFFFFF);
+	background-color: #F2F2F2;
 	padding-top: 7%;
 	padding-bottom: 7%;
 }
 
 .container-fluid-8 {
+  background: linear-gradient(#F2F2F2, #FFFFFF);
 	text-align: center;
   color: black;
 	padding-top: 3%;
@@ -193,8 +197,15 @@ body, html {
 .container-fluid-9 {
 	text-align: center;
 	padding-top: 1%;
-	background-color: #245ab9;
-	color: white;
+	background-color: #FFFFFF;
+	color: black;
+}
+
+.container-fluid-10 {
+  text-align: center;
+  padding-top: 1%;
+  background-color: #245ab9;
+  color: white;
 }
 
 .backToTop {
@@ -223,8 +234,6 @@ body, html {
 
 .socialmedia:hover {
   color: white;
-  font-size: 1.3em;
-  transition: 0.3s;
 }
 
 

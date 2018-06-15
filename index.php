@@ -80,11 +80,11 @@
 			<div class="col-md-6 col-xs-12">
 				<h3 class="titleTxtLeft">haute friture</h3>
 			  	<p class="underTitleTxtLeft">Where grill meets gourment.</p>
-			  	<p class="commenTxtLeft">In this project I worked together with my study group to create<br> a new website for Haute Friture. They didn't have a website and<br> wanted to be able to show their current and new customers what <br>their gourment grill looked like. The requirement was to have focus on<br>their unique food through visuelle element and provide a menu.</p>
+			  	<p class="commenTxtLeft">In this project I worked together with my study group to create<br> a new website for Haute Friture. They didn't have a website and<br> wanted to be able to show their current and new customers what <br>their gourment grill looked like. The requirement was to have focus on<br>their unique food through visuelle element and provide a menu.<br><br>Design: Wireframes and Photoshop.<br> Coding language: HTML, CSS, Bootstrap and JavaScript.</p>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhoto" src="images/hautefriture1.jpg" alt="Haute Friture Gourment Grill" title="Haute Friture Gourment Grill">
+				<a href="http://hautefriture.brasgaard.com" target="_blank"><img class="portfolioPhoto" src="images/hautefriture1.jpg" alt="Haute Friture Gourment Grill" title="Haute Friture Gourment Grill"></a>
 			</div>
 		</div>
 	</div>
@@ -94,17 +94,17 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhotoGone" src="images/njordex1.jpg" alt="Njordex" title="Njordex">
+				<a href="https://www.njordex.dk/" target="_blank"><img class="portfolioPhotoGone" src="images/njordex1.jpg" alt="Njordex" title="Njordex"></a>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
 				<h3 class="titleTxtRight">njordex</h3>
 			  	<p class="underTitleTxtRight">Denmarks first cryptocurrency exchange.</p>
-			  	<p class="commenTxtRight">My responsibility in this project was to create the visual identity for Njordex.<br>This included a brand new landing page and a full website design with 15+ sites. The goal was to create a website with great overview, which instantly builded trust. Some of the biggest focuses was to keep the site user friendly for all ages, easy to navigation through and ensure onboarding.</p>
+			  	<p class="commenTxtRight">My responsibility in this project was to create the visual identity for Njordex and code the front-end. This included a brand new landing page and a full website design with 15+ sites. The goal was to create a website with great overview, which instantly builded trust. Some of the biggest focuses was to keep the site user friendly for all ages, easy to navigation through and ensure onboarding.<br><br> Design: Wireframes and Adobe Experience Design. <br>Coding language: HTML, SCSS, React and JavaScript.</p>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhoto1" src="images/njordex1.jpg" alt="Njordex" title="Njordex">
+				<a href="https://www.njordex.dk/" target="_blank"><img class="portfolioPhoto1" src="images/njordex1.jpg" alt="Njordex" title="Njordex"></a>
 			</div>
 
 		</div>
@@ -115,13 +115,13 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
-				<h3 class="titleTxtLeft">nordnordnord</h3>
-			  	<p class="underTitleTxtLeft">Upcoming danish indierock band.</p>
-			  	<p class="commenTxtLeft">Working with nordnordnord was something totally different.<br>The focus was to differentiate them from other bands and their identities.<br>The main problem was that nordnordnord really didn't know their own identity very well, since they were a new band. The end result was nordnordnord's landing page was animated in different layers.<br>This together with sound created a whole new music univers.</p>
+				<h3 class="titleTxtLeft">makeinfluence</h3>
+			  	<p class="underTitleTxtLeft">Connecting brands and influencers.</p>
+			  	<p class="commenTxtLeft">MakeInfluence is a new danish start-up who connects brands with influencers. Since they were a new start-up company, they didn't have any website. So we created a look for them with their new website together with a video presentation which should help explaining the concept. The main focus of this project was to create onboarding, engagement and conversion of new signed up users.<br><br>Design: Photoshop.<br>Coding language: HTML, SCSS and PHP.</p>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhoto" src="images/nordnordnord1.jpg" alt="nordnordnord" title="nordnordnord">
+				<a href="http://lukasbroendel.dk/projekter/makeinfluence/" target="_blank"><img class="portfolioPhoto" src="images/makeinfluence1.jpg" alt="makeinfluence" title="makeinfluence"></a>
 			</div>
 		</div>
 	</div>
@@ -131,23 +131,39 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhotoGone" src="images/grundfos1.jpg" alt="Grundfos" title="Grundfos">
+				<a href="http://lukasbroendel.dk/projekter/grundfos" target="_blank"><img class="portfolioPhotoGone" src="images/grundfos1.jpg" alt="Grundfos" title="Grundfos"></a>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
 				<h3 class="titleTxtRight">grundfos</h3>
 			  	<p class="underTitleTxtRight">The world's leading pump manufacturer.</p>
-			  	<p class="commenTxtRight">This task was to create a new concept within Grundfos Ecademy.<br>They had 3 main problems which they would like to have solved: Onboarding, engagement and conversion.<br> Our concept main focus was to create better onboarding and a new way to managed users with new easy to use features. Therefore we designed and created an administration page for the companies that is on the Ecadamy.</p>
+			  	<p class="commenTxtRight">This task was to create a new concept within Grundfos Ecademy.<br>They had 3 main problems which they would like to have solved: Onboarding, engagement and conversion.<br> Our concept main focus was to create better onboarding and a new way to managed users with new easy to use features. Therefore we designed and created an administration page for the companies that is on the Ecadamy.<br><br>Design: Adobe Experience Design.<br>Coding language: HTML, CSS, PHP and JavaScript.</p>
 			</div>
 
 			<div class="col-md-6 col-xs-12">
-				<img class="portfolioPhoto1" src="images/grundfos1.jpg" alt="Grundfos" title="Grundfos">
+				<a href="http://lukasbroendel.dk/projekter/grundfos" target="_blank"><img class="portfolioPhoto1" src="images/grundfos1.jpg" alt="Grundfos" title="Grundfos"></a>
 			</div>
 		</div>
 	</div>
 </div>
 
 <div class="container-fluid-8">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-xs-12">
+				<h3 class="titleTxtLeft">nordnordnord</h3>
+			  	<p class="underTitleTxtLeft">Upcoming danish indierock band.</p>
+			  	<p class="commenTxtLeft">Working with nordnordnord was something totally different.<br>The focus was to differentiate them from other bands and their identities.<br>The main problem was that nordnordnord really didn't know their own identity very well, since they were a new band. The end result was nordnordnord's landing page was animated in different layers.<br>This together with sound created a whole new music univers.<br><br> Design: Wireframes and Photoshop.<br>Coding language: HTML, CSS, PHP, Bootstrap and JavaScript.</p>
+			</div>
+
+			<div class="col-md-6 col-xs-12">
+				<a href="http://nord.brasgaard.com/" target="_blank"><img class="portfolioPhoto" src="images/nordnordnord1.jpg" alt="nordnordnord" title="nordnordnord"></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid-9">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-xs-12">
@@ -167,7 +183,7 @@
 </div>
 
 <img class="curve" src="images/test3.png">
-<div class="container-fluid-9">
+<div class="container-fluid-10">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-xs-12">
