@@ -76,3 +76,29 @@ function topFunction() {
     document.body.scrollTop = 0; // For Safari
     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 };
+
+window.sr = ScrollReveal();
+sr.reveal('#myPhoto', {
+  duration: 1100,
+  delay: 200,
+  origin: 'right',
+  distance: '100px',
+});
+sr.reveal('.portfolioPhoto', {
+  duration: 700,
+  delay: 500,
+  origin:'right',
+  distance: '100px',
+  easing: 'linear',
+  reset: false,
+  mobile: false,
+});
+sr.reveal('.portfolioPhotoGone', {
+  duration: 700,
+  delay: 500,
+  origin:'left',
+  distance: '100px',
+  easing: 'linear',
+  reset: false,
+  mobile: false,  
+})
